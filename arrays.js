@@ -15,7 +15,7 @@ function destructivelyRemoveElmentFromBeginningOfArray(array,element){
   array.push(element)
 }
 function accessElementInArray(array,element){
-  re
+  var array = ('elment')
 }
 
     
